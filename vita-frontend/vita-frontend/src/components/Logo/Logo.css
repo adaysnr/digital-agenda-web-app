@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap");
+
+.logo {
+  font-family: "Akaya Kanadaka", cursive;
+  color: var(--foreground); /* Açık tema için varsayılan renk */
+}
